@@ -32,3 +32,24 @@ https://www.getpostman.com/collections/16af6cfd1cdebb7ca82a
 http://localhost:7071/api/openapi/ui
 
 ![image](https://user-images.githubusercontent.com/8706140/156190454-e2180327-d632-4361-8b01-d8697c882039.png)
+
+# local.settings.json ( for locally running function)
+
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBEndpoint": "https://localhost:8081",
+    "CosmosDBAccountKey": "C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==",
+    "CosmosDbConnectionString": "AccountEndpoint=https://localhost:8081;AccountKey=C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==;",
+    "CosmosDbDatabaseName": "OrderDb",
+    "CosmosDbOrderContainerName": "Order",
+    "ServiceBusconnectionString": "Endpoint=sb://ordertracking.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=<YourSharedAccessKey>",
+    "NewOrderQueue": "ordertracking.domain.entities.order",
+    "OrderAcceptedQueue": "ordertracking.domain.entities.orderaccepted",
+    "OrderOutForDeliveryQueue": "ordertracking.domain.entities.orderoutfordelivery",
+    "OrderDeliveredQueue": "ordertracking.domain.entities.orderdelivered",
+    "HostEndpoint": "http://localhost:7071"
+  }
+}
