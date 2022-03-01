@@ -16,18 +16,18 @@ A typical flow of the application -
 ![image](https://user-images.githubusercontent.com/8706140/156182060-5996c5f3-14c5-4307-b912-2a5c3ac7e3ac.png)
 
 
-#Architecture 
+# Architecture 
 
 The application apis are built using azure Http triggered functions for scalabilty (upto 200 instances on consumption plan) and service bus queues .
 Durable functions is uesd to handle the workflow.
 Clean architecture is followed using cqrs and mediator pattern
 
 
-#Postman Collection Link of Apis
+# Postman Collection Link of Apis
 
 https://www.getpostman.com/collections/16af6cfd1cdebb7ca82a
 
-#Swagger Api 
+# Swagger Api 
 
 http://localhost:7071/api/openapi/ui
 
