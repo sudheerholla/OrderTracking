@@ -1,0 +1,17 @@
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Infrastructure.deps.json
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Infrastructure.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\ref\OrderTracking.Infrastructure.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Infrastructure.pdb
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Application.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Domain.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Application.pdb
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\bin\Debug\net5.0\OrderTracking.Domain.pdb
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.csproj.AssemblyReference.cache
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.AssemblyInfoInputs.cache
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.AssemblyInfo.cs
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.csproj.CopyComplete
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\ref\OrderTracking.Infrastructure.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Infrastructure\obj\Debug\net5.0\OrderTracking.Infrastructure.pdb

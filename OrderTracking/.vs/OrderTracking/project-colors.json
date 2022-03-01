@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25c6f53d-01cf-44ba-abb5-3e0d8aeba2b9": {
+      "ProjectGuid": "25c6f53d-01cf-44ba-abb5-3e0d8aeba2b9",
+      "DisplayName": "OrderTracking.Application",
+      "ColorIndex": 0
+    },
+    "7447d9e4-c7c8-4a11-96c1-bb01c49a4d48": {
+      "ProjectGuid": "7447d9e4-c7c8-4a11-96c1-bb01c49a4d48",
+      "DisplayName": "OrderTracking.FunctionApp",
+      "ColorIndex": 1
+    },
+    "d6e25154-a7aa-43f8-afa5-59eda256049b": {
+      "ProjectGuid": "d6e25154-a7aa-43f8-afa5-59eda256049b",
+      "DisplayName": "OrderTracking.Domain",
+      "ColorIndex": 2
+    },
+    "5cc8974d-52be-480f-a71d-6e09c0980de7": {
+      "ProjectGuid": "5cc8974d-52be-480f-a71d-6e09c0980de7",
+      "DisplayName": "OrderTracking.Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

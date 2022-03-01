@@ -1,0 +1,12 @@
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\bin\Debug\net5.0\OrderTracking.Domain.deps.json
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\bin\Debug\net5.0\OrderTracking.Domain.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\bin\Debug\net5.0\ref\OrderTracking.Domain.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\bin\Debug\net5.0\OrderTracking.Domain.pdb
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.AssemblyInfoInputs.cache
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.AssemblyInfo.cs
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.csproj.CoreCompileInputs.cache
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\ref\OrderTracking.Domain.dll
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.pdb
+D:\Mine\ScratchProj\OrderTrackingApp\OrderTracking\OrderTracking.Domain\obj\Debug\net5.0\OrderTracking.Domain.csproj.AssemblyReference.cache
